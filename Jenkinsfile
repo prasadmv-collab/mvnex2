@@ -35,7 +35,7 @@ maven 'Maven'
 	stage('Run application')
 	{
 	steps{
-	sh 'java -jar target/Mavenfinal-1.0-SNAPSHOT.jar'
+	sh 'java -jar target/mvnex2-1.0-SNAPSHOT.jar'
 	}
 	}
 	
