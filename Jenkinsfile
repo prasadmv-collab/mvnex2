@@ -12,7 +12,7 @@ maven 'Maven'
 	stage('checkout')
 	{
 	steps{
-	git branch:'main',url:'https://github.com/akashsuresh2005/Mavenfinal123.git'
+	git branch:'main',url:'https://github.com/prasadmv-collab/mvnex2.git'
 	}
 	}
 	
